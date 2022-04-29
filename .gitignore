@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 data/
 save/optimizer.pth
+save/optimizer.pt
