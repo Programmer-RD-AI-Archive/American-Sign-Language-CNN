@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.13.0-40-generic-x86_64-with-glibc2.10",
+    "python": "3.8.8",
+    "heartbeatAt": "2022-04-29T17:00:17.194513",
+    "startedAt": "2022-04-29T16:59:47.472996",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/indika/.local/share/jupyter/runtime/kernel-2e806cf8-dcf6-46ef-81aa-71ee7bd282b6.json"
+    ],
+    "state": "running",
+    "program": "00.ipynb",
+    "root": "/media/indika/Sync/Programmer-RD-AI/Programming/Projects/Python/Artifical-Intelligence/PyTorch/CNN/American-Sign-Language-CNN",
+    "git": {
+        "remote": "https://github.com/Programmer-RD-AI/American-Sign-Language-CNN.git",
+        "commit": "97590b797b2bd31afd08fa98d5ff432c217e5b0e"
+    },
+    "email": "go2ranuga@gmail.com",
+    "host": "programmer-rd-ai",
+    "username": "indika",
+    "executable": "/media/indika/Sync/anaconda3/bin/python3.8"
+}
