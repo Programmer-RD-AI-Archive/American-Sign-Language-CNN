@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/
+save/optimizer.pth
+save/optimizer.pt
